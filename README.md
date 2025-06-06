@@ -25,4 +25,4 @@ A simple and intuitive calculator application built using Java in Android Studio
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/dipeshmhrzn/Calculator-App.git

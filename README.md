@@ -18,7 +18,8 @@ A simple and intuitive calculator application built using Java in Android Studio
 
 ## 📸 Screenshots
 
-![Calculator Screenshot](https://github.com/dipeshmhrzn/Calculator-App/blob/0e3e2380c4c95eb33e70e0d2f49c97519b1dab2b/screenshot.jpg)
+<img src="https://github.com/dipeshmhrzn/Calculator-App/blob/0e3e2380c4c95eb33e70e0d2f49c97519b1dab2b/screenshot.jpg" width="400" height="250" />
+
 
 ## 📦 Installation
 
